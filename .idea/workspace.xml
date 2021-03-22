@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectId" id="1q6egXy2r6kYtVY0feNaq4nsljp" />
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings sdk-home="$PROJECT_DIR$/../../all/pythonscripts/venv/bin/python">
+        <option name="mySdkHome" value="$PROJECT_DIR$/../../all/pythonscripts/venv/bin/python" />
+      </console-settings>
+    </option>
+  </component>
+</project>
