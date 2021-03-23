@@ -1,0 +1,24 @@
+F a-12-log.py::TestRun::test_run3
+ self = <a-12-log.TestRun object at 0x0000014F3A552488>
+ 
+     def test_run3(self):
+         print("只有run3 测试")
+ >       assert 1 == 2
+ E       assert 1 == 2
+ E         +1
+ E         -2
+ 
+ a-12-log.py:18: AssertionError
+. a-12-log.py::TestRun::test_run1
+F a-12-log.py::TestRun::test_run2
+ self = <a-12-log.TestRun object at 0x0000014F3A58C348>
+ 
+     def test_run2(self):
+         print("只有run2 测试")
+         time.sleep(2)
+ >       assert 1 == 2
+ E       assert 1 == 2
+ E         +1
+ E         -2
+ 
+ a-12-log.py:26: AssertionError
