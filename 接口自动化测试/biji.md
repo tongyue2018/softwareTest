@@ -17,3 +17,5 @@
 * requests.head('https://httpbin.org/get')
 * requests.options('https://httpbin.org/get')
 
+### 4.演练环境
+http://httpbin.testing-studio.com
