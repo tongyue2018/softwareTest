@@ -13,6 +13,7 @@ def test_post():
     assert responseObject.status_code == 200
 
 
+
 # 文件上传
 # files = {'file':open('report.xls','rb')}
 # r = requests.post(url=url,file=files)
